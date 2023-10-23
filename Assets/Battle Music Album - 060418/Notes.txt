@@ -1,0 +1,18 @@
+	Battle Music Album - 030718
+	Artist: GWriterStudio
+1. Before Dawn
+2. Warrior Heart
+3. One Step
+4. Hard Breathing
+5. Returns
+6. Human Strength
+7. Blood
+8. Final Justice
+9. Abyss Darkness
+10. Glory Kingdom
+
+Please use .wav for looping sound in Unity without problems.
+Remove "mp3 - 320kbps" if not needded
+
+Have Questions contact me via gmail:
+gwriterstudio@gmail.com
